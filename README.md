@@ -1,9 +1,11 @@
 # 📱 Instagram Clone App
 
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento%20%F0%9F%9D%A7-yellow.svg)
 ![Android CI](https://github.com/Domingosvana/Instagram/actions/workflows/android.yml/badge.svg)
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.8.10-blue.svg)
 ![Android SDK](https://img.shields.io/badge/Android%20SDK-33-green.svg)
-![License](https://img.shields.io/badge/License-MIT-orange.svg)
+
+> 🚧 **Projeto em Desenvolvimento:** Este aplicativo está sendo construído progressivamente como parte das aulas do curso de Desenvolvimento Android. Novas funcionalidades, telas e testes são adicionados continuamente.
 
 Um aplicativo Android moderno que recria a interface e as funcionalidades do **Instagram**, desenvolvido como parte do aprendizado prático de arquitetura e desenvolvimento Android no curso **Tiago Aguiar**.
 
