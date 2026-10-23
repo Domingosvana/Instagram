@@ -58,7 +58,7 @@
 
 
 
-            <co.tiagoaguiar.course.instagram.LoadingButton
+            <co.tiagoaguiar.course.instagram.login.LoadingButton
                 android:id="@+id/register_btn_next"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

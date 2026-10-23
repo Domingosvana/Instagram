@@ -1,4 +1,4 @@
-package co.tiagoaguiar.course.instagram
+package co.tiagoaguiar.course.instagram.login
 
 import android.content.Context
 import android.util.AttributeSet
@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.widget.Button
 import android.widget.FrameLayout
 import android.widget.ProgressBar
+import co.tiagoaguiar.course.instagram.R
 
 class LoadingButton: FrameLayout {
 

@@ -1,4 +1,4 @@
-package co.tiagoaguiar.course.instagram
+package co.tiagoaguiar.course.instagram.login
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -6,7 +6,7 @@ import android.os.Handler
 import android.os.Looper
 import android.text.Editable
 import android.text.TextWatcher
-import android.widget.Button
+import co.tiagoaguiar.course.instagram.R
 import com.google.android.material.textfield.TextInputEditText
 import com.google.android.material.textfield.TextInputLayout
 
