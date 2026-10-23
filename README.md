@@ -42,19 +42,19 @@ Um aplicativo Android moderno que recria a interface e as funcionalidades do **I
 app/src/main/java/co/tiagoaguiar/course/instagram/
 │
 ├── login/
-│   └── LoginActivity.kt              # Tela principal de Login
+│   ├── LoginActivity.kt              # Tela principal de Login
+│   └── LoadingButton.kt              # Componente visual customizado de botão
 │
 ├── register/
 │   └── view/
 │       ├── RegisterActivity.kt       # Activity container do cadastro
 │       ├── RegisterEmailFragment.kt  # Etapa 1: Digitação de E-mail
 │       ├── RegisternNamePasswordFragment.kt # Etapa 2: Nome e Senha
-│       └── RegisterWelcomeFragment.kt# Etapa 3: Boas-vindas
+│       ├── RegisterWelcomeFragment.kt# Etapa 3: Boas-vindas
+│       └── RegisterPhotoFragment.kt  # Etapa 4: Adição de Foto de Perfil
 │
-├── util/
-│   └── LoginValidator.kt             # Lógica pura de validação (Testável)
-│
-└── LoadingButton.kt                  # Componente visual customizado de botão
+└── util/
+    └── LoginValidator.kt             # Lógica pura de validação (Testável)
 ```
 
 ---
